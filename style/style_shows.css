@@ -16,10 +16,13 @@ body {
 table {
   border-style: groove;
   border-width: 3px;
-  border-color: #7e077b;
+  border-color: #d308b5;
 }
 
 th, td {
+  border-style: groove;
+  border-width: 3px;
+  border-color: #d308b5;
   padding: 5px;
   font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
   font-size: 10;
