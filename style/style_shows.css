@@ -17,9 +17,10 @@ table {
   border-style: groove;
   border-width: 3px;
   border-color: #d308b5;
-  position: center;
   border-collapse: collapse;
 }
+
+.centerTable { margin: 0px auto; }
 
 th, td {
   border-style: groove;
