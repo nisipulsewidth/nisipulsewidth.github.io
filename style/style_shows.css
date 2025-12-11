@@ -17,6 +17,8 @@ table {
   border-style: groove;
   border-width: 3px;
   border-color: #d308b5;
+  position: center;
+  border-collapse: collapse;
 }
 
 th, td {
@@ -26,6 +28,7 @@ th, td {
   padding: 5px;
   font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
   font-size: 10;
+  border-collapse: collapse;
   color: #ffffff;
 }
 
