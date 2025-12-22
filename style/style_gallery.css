@@ -108,6 +108,7 @@ h1, h2, h3, h4, h5 {
 }
 #header li a:hover {
   text-decoration: underline;
+/* :3c */
 }
 
 /*POST LIST STYLE*/
@@ -141,4 +142,5 @@ h1, h2, h3, h4, h5 {
 #footer {
   font-size: 0.8em;
   padding: 0 5% 10px 5%;
+
 }
